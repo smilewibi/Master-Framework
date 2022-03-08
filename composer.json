@@ -1,0 +1,10 @@
+{
+    "name": "smile/master-framework",
+    "minimum-stability": "alpha",
+    "autoload": {
+        "psr-4": {
+            "app\\": "./"
+        }
+    },
+    "require": {}
+}
